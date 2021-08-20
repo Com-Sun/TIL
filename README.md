@@ -2,4 +2,4 @@
 
 # Git & Github
 
-- [Git & Github](./git/README.md)
+- [Git & Github](https://github.com/Consome1/TIL/blob/main/Git/README.md)
