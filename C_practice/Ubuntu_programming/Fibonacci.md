@@ -6,7 +6,7 @@
 2. 짝수항만 추출
 3. 합 구하기
 
-![1](/TIL/img/fibonacci_0.PNG)
+![1](/img/fibonacci_0.PNG)
 ![2](/img/fibonacci_1.PNG)
 
 피보나치 수열이 잘 만들어졌다.
