@@ -2,7 +2,7 @@
 
 # Git & Github
 
-- [Git & Github](https://github.com/Consome1/TIL/blob/main/Git/README.md)
+- [Git & Github](https://github.com/Consome1/TIL/blob/main/Git/Git.md)
 
 # C_Practice
 
