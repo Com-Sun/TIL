@@ -9,3 +9,5 @@
 - [Fibonacci](https://github.com/Consome1/TIL/blob/main/C_practice/Ubuntu_programming/Fibonacci.md)
 
 - [switch문](https://github.com/Consome1/TIL/blob/main/C_practice/switch%EB%AC%B8.md)
+
+- [형 변환(캐스팅)](https://github.com/Consome1/TIL/blob/main/C_practice/%ED%98%95%EB%B3%80%ED%99%98.md#c%EC%96%B8%EC%96%B4%EC%97%90%EC%84%9C%EC%9D%98-%ED%98%95-%EB%B3%80%ED%99%98)
