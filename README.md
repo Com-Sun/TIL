@@ -15,3 +15,5 @@
   - [소수점 이하 추출 후 대입하기](https://github.com/Consome1/TIL/blob/main/C_practice/Ubuntu_programming/casting_1.md)
 
 - [Array](https://github.com/Consome1/TIL/blob/main/C_practice/Array.md)
+
+- [Pointer](https://github.com/Consome1/TIL/blob/main/C_practice/Pointer.md)
