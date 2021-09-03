@@ -16,4 +16,6 @@
 
 - [Array](https://github.com/Consome1/TIL/blob/main/C_practice/Array.md)
 
-- [Pointer](https://github.com/Consome1/TIL/blob/main/C_practice/Pointer.md)
+- [Pointer_1](https://github.com/Consome1/TIL/blob/main/C_practice/Pointer_1.md)
+
+- [Pointer_2](https://github.com/Consome1/TIL/blob/main/C_practice/Pointer_2.md)
