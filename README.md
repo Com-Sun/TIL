@@ -22,6 +22,6 @@
 
 # Algorithm
 
-- [단계별 분류]()
+- [단계별 분류](https://github.com/Consome1/TIL/blob/main/Algorithm/level/README.md)
 
-- [태그별 분류]()
+- [태그별 분류](https://github.com/Consome1/TIL/blob/main/Algorithm/tag/README.md)
