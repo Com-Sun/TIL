@@ -20,7 +20,8 @@
 
 - [Pointer_2](https://github.com/Consome1/TIL/blob/main/C_practice/Pointer_2.md)
 
-- [함수](C_practice/함수.md)
+- [함수](./C_practice/함수.md)
+  - [함수실습](./C_practice/함수실습.md)
 
 # Algorithm
 
