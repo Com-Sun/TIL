@@ -23,6 +23,8 @@
 - [함수](./C_practice/함수.md)
   - [함수실습](./C_practice/함수실습.md)
 
+- [함수2](./C_practice/함수2.md)
+
 # Algorithm
 
 - [단계별 분류](https://github.com/Consome1/TIL/blob/main/Algorithm/level/README.md)
