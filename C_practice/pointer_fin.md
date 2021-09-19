@@ -13,6 +13,11 @@ C의 강점은 배열과 pointer의 유사성이다. 포인터를 통해 배열�
     The cornerstone of the “equivalence” of arrays and pointers in C is the fact that most array references decay into pointers to the array's first element, as described in question [*]6.3. Therefore, arrays are “second-class citizens” in C: You can never manipulate an array in its entirely (i.e., to copy it or pass it to a function), because whenever you mention its name, you're left with a pointer rather than the entire array. Because arrays deacy to pointers, the array subscripting operator [] always find itself, deep down, operating on a pointer. In fact, the subscripting expression a[i] is defined in terms of the equivalent pointer expression *((a) + (i)).
 
 C에서 배열과 포인터가 "equivalence"한 것은, 대부분의 배열 reference가 배열의 첫번째 요소를 가리키는 포인터로 '퇴화'되는것에 기초한다. 따라서, C에서 배열은 **2등 시민**이다.
-배열 이름 그 자체를 사용할 때 배열 전체가 사용되는것이 아닌 포인터가 남게 된다. 따라서, 당신은 배열 그 자체만을 복사하거나 함수에 전달하는 식의 사용은 불가능하다. 배열이 포인터로 퇴화(decay)되기에, []연산자는  항상 포인터에서 동작한다. 실제로 첨자표현식 a[i]는 포인터표현식*((a) + (i))로 정의된다.
+배열 이름 그 자체를 사용할 때 배열 전체가 사용되는것이 아닌 포인터가 남게 된다. 따라서, 당신은 배열 그 자체만을 복사하거나 함수에 전달하는 식의 사용은 불가능하다. 배열이 포인터로 퇴화(decay)되기에, []연산자는  항상 포인터에서 동작한다. 실제로 첨자표현식 a[i]는 포인터표현식*((a) + (i))로 정의된다. 
+
+위 내용은 [pointer_1](./pointer_1.md) 문서에서 간단하게 다루었다. 다시 한 번 확인해보자.
 
 ![](/img/function_13.PNG)
+
+이제서야 위의 내용이 제대로 이해가 가는 기분이다.
+
