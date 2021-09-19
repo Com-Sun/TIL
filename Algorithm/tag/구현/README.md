@@ -1,1 +1,2 @@
-- [max_min](./max_min.md)
+- [lv 5 : max_min](./max_min.md)
+- [lv 5 : max](./max.md)
