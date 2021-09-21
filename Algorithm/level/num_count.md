@@ -73,3 +73,96 @@ _디버깅을 하던 와중 C에서 10^i 가 불가능하다는 것을 깨달았
 
 이제 남은 것은 arr에 저장된 각 수만 잘 세는 것 뿐이다.
 arr[0] 부터 arr[2] 까지 자리수에 0은 무시하면서 수를 세는 코드를 만들어보자.
+
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+    int main() {
+
+        int arr[10];
+        int input_arr[3];
+        int input;
+        int i;
+        int j = 1;
+        int multiplied_abc = 1;
+        int fin[10];
+        int count;
+
+        for (i = 0; i < 3; i++) {
+            scanf("%d", &input);
+            input_arr[i] = input;
+        }
+
+        for (i = 0; i < 3; i++) {
+            multiplied_abc *= input_arr[i];
+        }
+
+
+        for (i = 9; i >= 0; i--) {
+            for (j; j < 2000000001; j *= 10) {
+                arr[i] = ((multiplied_abc / j) % 10);
+                j *= 10;
+                break;
+            }
+        }
+
+        for (i = 0; i < 10; i++) {
+            count = 0;
+            for (int k = 0; k < 10; k++) {
+                fin[i] = count;
+
+                if (i == arr[k]) {
+                    count++;
+                    fin[i] = count;
+                }
+
+            }
+        }
+
+        int* parr = fin;
+        int count_2 = 0;
+        for (int i = 1; i < 3; i++) {
+            if (arr[i] != 0) {
+                break;
+            }
+
+            else if (arr[i] == 0) {
+                count_2++;
+            }
+        }
+
+        parr[0] -= (count_2 + 1);
+
+
+        for (i = 0; i < 10; i++) {
+            printf("%d\n", parr[i]);
+        }
+
+        return 0;
+    }
+
+![](/img/num_count_3.PNG)
+
+피드백 : 
+
+    #include <stdio.h>
+
+    int main(void)
+    {
+        int a, b, c;
+        scanf("%d\n%d\n%d", &a, &b, &c);
+        int weight[10] = {0, };
+        long temp = a * b * c;
+        while (temp > 0)
+        {
+            weight[temp % 10]++;
+            temp /= 10;
+        }
+
+        for (int i = 0; i < 10; i++)
+            printf("%d\n", weight[i]);
+
+        return 0;
+    }
+
+이렇게 간단하게 풀 수도 있는 문제였다.. 허허
