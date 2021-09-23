@@ -29,6 +29,7 @@
 
 # JAVA
 
+- [Hello_world](./java_practice/hello_world.md)
 
 
 # Algorithm
