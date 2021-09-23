@@ -4,7 +4,7 @@
 
 - [Git & Github](https://github.com/Consome1/TIL/blob/main/Git/Git.md)
 
-# C_Practice
+# C
 
 - [fibonacci](https://github.com/Consome1/TIL/blob/main/C_practice/Ubuntu_programming/Fibonacci.md)
 
@@ -26,6 +26,10 @@
   - [함수실습](./C_practice/함수실습.md)
 
 - [함수2](./C_practice/함수2.md)
+
+# JAVA
+
+
 
 # Algorithm
 
