@@ -92,3 +92,41 @@ eclipse의 위치는 위와 같다.
 나의 경우 2번을 선택하여 성공적으로 두 번째 Hello World!!를 출력할 수 있었다.
 
 ![](/img/helloWorld_1.PNG)
+
+
+### java의 동작원리 
+
+Hello World!!를 출력하는 과정을 통해 경험적으로 자바의 실행 과정을 공부했다. 이번엔 구조적으로 이를 알아보자.
+
+
+    public class HelloWorldApp {
+        public static void main(String[] args) {
+            System.out.println("Hello world!!");
+        }
+    }
+
+위의 코드는 화면에 Hello World!!를 출력시킨다. 이를 표현하는 단어가 있다. 원인을 나타내는 Source.
+
+code.
+
+약속이라는 측면에서 language.
+
+이 세 가지 단어가 의미하는 것은 같다.
+
+    Hello World!!
+
+두 번째로 살펴볼 것은 출력된 결과물 Hello World!!이다. 이 결과물을 부르는 단어는 application, program이다.
+
+이르 조금 더 자세히 설명해보자.
+
+1. java라는 약속된 문법으로 작성된 sourceCode.java 파일 생성. (위의 경우 Hello World!!를 출력하는 코드. 이는 인간의 언어이다.)
+
+2. 컴파일 과정을 통해 컴퓨터의 언어로 번역.
+
+3. java virtual machine에서 이를 run 함
+
+4. 컴퓨터에서 출력.
+
+![](/img/helloWorld_2.PNG)
+출처 : [Open tutorials](https://opentutorials.org/course/3930/26651)
+
