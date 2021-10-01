@@ -1,2 +1,3 @@
 - [lv 5 : max_min](./max_min.md)
 - [lv 5 : 숫자의 개수](./num_count.md)
+- [lv 5 : 나머지](./rest.md)
