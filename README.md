@@ -27,6 +27,7 @@
 
 - [함수2](./C_practice/함수2.md)
 
+- [함수 알고리즘](./C_practice/함수알고리즘.md)
 # JAVA
 
 - [Hello_world](./java_practice/hello_world.md)
