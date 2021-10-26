@@ -31,6 +31,7 @@
 # JAVA
 
 - [Hello_world](./java_practice/hello_world.md)
+- [Operator](./java_practice/Operator.md)
 
 
 # Algorithm
