@@ -31,9 +31,14 @@
 # JAVA
 
 - [Hello_world](./java_practice/hello_world.md)
+
 - [Operator](./java_practice/Operator.md)
+
 - [제어문](./java_practice/제어문.md)
+
 - [객체지향1](./java_practice/객체지향1.md)
+
+- [객체지향2](./java_practice/객체지향2.md)
 
 
 # Algorithm
