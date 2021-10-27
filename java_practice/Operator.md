@@ -79,6 +79,7 @@ new - Java Project - 프로젝트 네임에 javademo 다음 finish
 - [이클립스 단축키](https://iamfreeman.tistory.com/entry/Eclipse-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%AA%A8%EC%9D%8C-%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4-Effective-Eclipse-Shortcut-Keys)
 
 sout +ctrl +space 빠르게 입력
+main + 컨트롤 스페이스 누르면 자동 완성
 
 
 ### 표기법 종류
@@ -302,3 +303,19 @@ ex ) && 연산자의 좌변의 false일 경우, ||연산자의 좌면의 true인
 상수명 앞에 final이 붙는다. 상수명은 항상 대문자이다
 
 
+
+
+
+### print문
+
+    println  : 자동 \n이된다.
+    print : \n이 없다. 붙어서 나옴.
+    printf : 자바에서 1.4에서 추가된 기능. c에서 배운 %d 같은 형식지정자를 사용할수있음. 이때 문자열 자체를 출력하고싶으면 %%를 사용한다. 쌍따옴표를 출력하고싶으면 \"를 사용한다.
+
+
+%f : %4.1f : 앞의 4는 전체 자릿수, 뒤의 1은 소숫점 갯수. 이 떄 전체 자릿수는 소숫점을 포함한다.
+%-4.1f : 왼쪽 정렬로 표시한다. (숫자 기본은 오른쪽 정렬이다)
+
+boolean : %b에 어떤 값이 있으면 true.
+
+\t : 탭키
