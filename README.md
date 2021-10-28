@@ -40,6 +40,8 @@
 
 - [객체지향2](./java_practice/객체지향2.md)
 
+- [객체지향3_인터페이스](./java_practice/객체지향3_인터페이스.md)
+
 
 # Algorithm
 
