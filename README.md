@@ -30,6 +30,11 @@
 - [함수 알고리즘](./C_practice/함수알고리즘.md)
 # JAVA
 
+- 구조적인 프로그래밍
+  - [코드구조화](./java_practice/StructuredProgramming/코드구조화.md)
+  - [데이터구조화](./java_practice/StructuredProgramming/데이터구조화.md)
+
+
 - [Hello_world](./java_practice/hello_world.md)
 
 - [Operator](./java_practice/Operator.md)
