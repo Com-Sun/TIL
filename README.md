@@ -31,8 +31,11 @@
 # JAVA
 
 - 구조적인 프로그래밍
-  - [코드구조화](./java_practice/StructuredProgramming/코드구조화.md)
-  - [데이터구조화](./java_practice/StructuredProgramming/데이터구조화.md)
+  - [코드구조화](./java_practice/StructuredProgramming/01_코드구조화.md)
+  - [데이터구조화](./java_practice/StructuredProgramming/02_데이터구조화.md)
+  - [구조체배열](./java_practice/StructuredProgramming/03_구조체배열.md)
+  - [가변길이배열](./java_practice/StructuredProgramming/04_가변길이배열.md)
+  - [함수오버로딩](./java_practice/StructuredProgramming/05_함수오버로딩.md)
 
 
 - [Hello_world](./java_practice/hello_world.md)
