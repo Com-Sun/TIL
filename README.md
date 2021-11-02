@@ -37,6 +37,10 @@
   - [가변길이배열](./java_practice/StructuredProgramming/04_가변길이배열.md)
   - [함수오버로딩](./java_practice/StructuredProgramming/05_함수오버로딩.md)
 
+- 객체지향 프로그래밍
+  - [캡슐화](./java_practice/ObjectOrientedProgramming/01_캡슐화.md)
+  - [생성자](./java_practice/ObjectOrientedProgramming/02_생성자.md)
+
 
 - [Hello_world](./java_practice/hello_world.md)
 
