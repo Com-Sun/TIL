@@ -40,6 +40,8 @@
 - 객체지향 프로그래밍
   - [캡슐화](./java_practice/ObjectOrientedProgramming/01_캡슐화.md)
   - [생성자](./java_practice/ObjectOrientedProgramming/02_생성자.md)
+  - [getters & setters](./java_practice/ObjectOrientedProgramming/03_Getters_Setters.md)
+  - [캡슐분리](./java_practice/ObjectOrientedProgramming/04_캡슐분리.md)
 
 
 - [Hello_world](./java_practice/hello_world.md)
