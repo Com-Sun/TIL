@@ -13,3 +13,4 @@
   - [로또의 최고 순위와 최저 순위](./lotto.md)
   - [신규 아이디 추천](./newId.md)
   - [나머지 한 점](./rectangle.md)
+  - [숫자 문자열과 영단어](./StringToInt.md)
