@@ -14,3 +14,4 @@
   - [신규 아이디 추천](./newId.md)
   - [나머지 한 점](./rectangle.md)
   - [숫자 문자열과 영단어](./StringToInt.md)
+  - [없는 숫자 더하기](./sumNum.md)
