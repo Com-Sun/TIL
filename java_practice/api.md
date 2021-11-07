@@ -1,4 +1,16 @@
-# String
+# java.lang
+
+유일하게 임포트가 필요 없는 기본 패키지.
+
+## Object
+
+hashCode()
+
+생성된 오브젝트의 일련번호
+
+equals()
+
+## String
 
 replaceAll 
 
