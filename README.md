@@ -42,6 +42,11 @@
   - [생성자](./java_practice/ObjectOrientedProgramming/02_생성자.md)
   - [getters & setters](./java_practice/ObjectOrientedProgramming/03_Getters_Setters.md)
   - [캡슐분리](./java_practice/ObjectOrientedProgramming/04_캡슐분리.md)
+  - [코드재사용](./java_practice/ObjectOrientedProgramming/05_코드재사용.md)
+  - [IS A 상속(복습필요)](./java_practice/ObjectOrientedProgramming/06_IS_A상속.md)
+  - [참조형식(복습필요)](./java_practice/ObjectOrientedProgramming/07_참조형식.md)
+  - [동적바인딩(복습필요)](./java_practice/ObjectOrientedProgramming/08_동적바인딩.md)
+  - [추상화(복습필요)](./java_practice/ObjectOrientedProgramming/09_추상화.md)
 
 
 - [Hello_world](./java_practice/hello_world.md)

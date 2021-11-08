@@ -39,3 +39,12 @@ toLowerCase
     public String toLowerCase()
 
 소문자로 바꾸기
+
+
+
+-------------------
+
+
+배열 합치기
+
+1. System.arraycopy()
