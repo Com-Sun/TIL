@@ -5,6 +5,7 @@
   - [최댓값](./baekjoon/lv5/max.md)
   - [숫자의 개수](./baekjoon/lv5/num_count.md)
   - [나머지](./baekjoon/lv5/rest.md)
+  - [평균](./baekjoon/lv5/average.md)
 
 
 # programmers
