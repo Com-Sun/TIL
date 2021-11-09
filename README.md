@@ -47,6 +47,7 @@
   - [참조형식(복습필요)](./java_practice/ObjectOrientedProgramming/07_참조형식.md)
   - [동적바인딩(복습필요)](./java_practice/ObjectOrientedProgramming/08_동적바인딩.md)
   - [추상화(복습필요)](./java_practice/ObjectOrientedProgramming/09_추상화.md)
+  - [팩토리메소드(복습필요)](./java_practice/ObjectOrientedProgramming/10_팩토리메소드.md)
 
 
 - [Hello_world](./java_practice/hello_world.md)
