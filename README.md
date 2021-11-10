@@ -31,36 +31,36 @@
 # JAVA
 
 - 구조적인 프로그래밍
-  - [코드구조화](./java_practice/StructuredProgramming/01_코드구조화.md)
-  - [데이터구조화](./java_practice/StructuredProgramming/02_데이터구조화.md)
-  - [구조체배열](./java_practice/StructuredProgramming/03_구조체배열.md)
-  - [가변길이배열](./java_practice/StructuredProgramming/04_가변길이배열.md)
-  - [함수오버로딩](./java_practice/StructuredProgramming/05_함수오버로딩.md)
+  - [코드구조화](./javaStudy/StructuredProgramming/01_코드구조화.md)
+  - [데이터구조화](./javaStudy/StructuredProgramming/02_데이터구조화.md)
+  - [구조체배열](./javaStudy/StructuredProgramming/03_구조체배열.md)
+  - [가변길이배열](./javaStudy/StructuredProgramming/04_가변길이배열.md)
+  - [함수오버로딩](./javaStudy/StructuredProgramming/05_함수오버로딩.md)
 
 - 객체지향 프로그래밍
-  - [캡슐화](./java_practice/ObjectOrientedProgramming/01_캡슐화.md)
-  - [생성자](./java_practice/ObjectOrientedProgramming/02_생성자.md)
-  - [getters & setters](./java_practice/ObjectOrientedProgramming/03_Getters_Setters.md)
-  - [캡슐분리](./java_practice/ObjectOrientedProgramming/04_캡슐분리.md)
-  - [코드재사용](./java_practice/ObjectOrientedProgramming/05_코드재사용.md)
-  - [IS A 상속(복습필요)](./java_practice/ObjectOrientedProgramming/06_IS_A상속.md)
-  - [참조형식(복습필요)](./java_practice/ObjectOrientedProgramming/07_참조형식.md)
-  - [동적바인딩(복습필요)](./java_practice/ObjectOrientedProgramming/08_동적바인딩.md)
-  - [추상화(복습필요)](./java_practice/ObjectOrientedProgramming/09_추상화.md)
-  - [팩토리메소드(복습필요)](./java_practice/ObjectOrientedProgramming/10_팩토리메소드.md)
+  - [캡슐화](./javaStudy/ObjectOrientedProgramming/01_캡슐화.md)
+  - [생성자](./javaStudy/ObjectOrientedProgramming/02_생성자.md)
+  - [getters & setters](./javaStudy/ObjectOrientedProgramming/03_Getters_Setters.md)
+  - [캡슐분리](./javaStudy/ObjectOrientedProgramming/04_캡슐분리.md)
+  - [코드재사용](./javaStudy/ObjectOrientedProgramming/05_코드재사용.md)
+  - [IS A 상속(복습필요)](./javaStudy/ObjectOrientedProgramming/06_IS_A상속.md)
+  - [참조형식(복습필요)](./javaStudy/ObjectOrientedProgramming/07_참조형식.md)
+  - [동적바인딩(복습필요)](./javaStudy/ObjectOrientedProgramming/08_동적바인딩.md)
+  - [추상화(복습필요)](./javaStudy/ObjectOrientedProgramming/09_추상화.md)
+  - [팩토리메소드(복습필요)](./javaStudy/ObjectOrientedProgramming/10_팩토리메소드.md)
 
 
-- [Hello_world](./java_practice/hello_world.md)
+- [Hello_world](./javaStudy/hello_world.md)
 
-- [Operator](./java_practice/Operator.md)
+- [Operator](./javaStudy/Operator.md)
 
-- [제어문](./java_practice/제어문.md)
+- [제어문](./javaStudy/제어문.md)
 
-- [객체지향1](./java_practice/객체지향1.md)
+- [객체지향1](./javaStudy/객체지향1.md)
 
-- [객체지향2](./java_practice/객체지향2.md)
+- [객체지향2](./javaStudy/객체지향2.md)
 
-- [객체지향3_인터페이스](./java_practice/객체지향3_인터페이스.md)
+- [객체지향3_인터페이스](./javaStudy/객체지향3_인터페이스.md)
 
 
 # Algorithm
