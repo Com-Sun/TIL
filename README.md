@@ -60,7 +60,10 @@
 
 - [객체지향2](./javaStudy/객체지향2.md)
 
-- [객체지향3_인터페이스](./javaStudy/객체지향3_인터페이스.md)
+# MySQL
+
+- [DBMS 개요](./mySQL/01_DBMS개요.md)
+- [MySQL 실습](./mySQL/02_MySQL실습.md)
 
 
 # Algorithm
