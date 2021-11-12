@@ -50,20 +50,13 @@
   - [팩토리메소드(복습필요)](./javaStudy/ObjectOrientedProgramming/10_팩토리메소드.md)
 
 
-- [Hello_world](./javaStudy/hello_world.md)
 
-- [Operator](./javaStudy/Operator.md)
-
-- [제어문](./javaStudy/제어문.md)
-
-- [객체지향1](./javaStudy/객체지향1.md)
-
-- [객체지향2](./javaStudy/객체지향2.md)
 
 # MySQL
 
 - [DBMS 개요](./mySQL/01_DBMS개요.md)
 - [MySQL 실습](./mySQL/02_MySQL실습.md)
+- [데이터베이스 모델링](./mySQL/03_모델링.md)
 
 
 # Algorithm
