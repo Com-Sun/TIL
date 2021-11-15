@@ -3,6 +3,8 @@
 # Git & Github
 
 - [Git & Github](https://github.com/Consome1/TIL/blob/main/Git/Git.md)
+- [우분투에서 Git 사용하기](/Git/Linux.md)
+- [이클립스에서 Git 사용하기](/Git/이클립스.md)
 
 # C
 
