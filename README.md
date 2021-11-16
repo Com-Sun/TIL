@@ -52,6 +52,9 @@
   - [팩토리메소드(복습필요)](./javaStudy/ObjectOrientedProgramming/10_팩토리메소드.md)
 
 
+- [입출력](./javaStudy/입출력.md)
+
+
 
 
 # MySQL
@@ -66,3 +69,6 @@
 - [단계별 분류](https://github.com/Consome1/TIL/blob/main/Algorithm/level/README.md)
 
 - [태그별 분류](https://github.com/Consome1/TIL/blob/main/Algorithm/tag/README.md)
+
+- 알고리즘 개념
+  - [입출력](./Algorithm/입출력.md)
