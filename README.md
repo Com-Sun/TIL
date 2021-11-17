@@ -1,5 +1,9 @@
 # TIL
 
+## 우아한 테크코스 프리코스
+  
+* [숫자야구](./javaStudy/숫자야구.md)
+
 # Git & Github
 
 - [Git & Github](https://github.com/Consome1/TIL/blob/main/Git/Git.md)
