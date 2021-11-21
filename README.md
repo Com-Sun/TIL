@@ -66,6 +66,7 @@
 - [DBMS 개요](./mySQL/01_DBMS개요.md)
 - [MySQL 실습](./mySQL/02_MySQL실습.md)
 - [데이터베이스 모델링](./mySQL/03_모델링.md)
+- [JDBC 연동](./mySQL/05_JDBC연동.md)
 
 
 # Algorithm
