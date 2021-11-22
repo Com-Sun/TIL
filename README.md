@@ -56,7 +56,11 @@
   - [팩토리메소드(복습필요)](./javaStudy/ObjectOrientedProgramming/10_팩토리메소드.md)
 
 
-- [입출력](./javaStudy/입출력.md)
+- 개념 다지기
+
+  - [입출력](./javaStudy/개념/입출력.md)
+  - [변수와 메서드](./javaStudy/개념/변수와메서드.md)
+  - [Overriding vs Overloading](./javaStudy/개념/OverrideOverload.md)
 
 
 
