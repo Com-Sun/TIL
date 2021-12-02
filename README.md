@@ -70,7 +70,7 @@
   - [스택](./Algorithm/스택.md)
 
 
-## Java(처음 공부를 시작한 ver)
+# Java(처음 공부를 시작한 ver)
 - [Hello Java!](./javaStudy/hello_world.md)
 - [API](./javaStudy/미사용/api.md)
 - [객체지향1](./javaStudy/미사용/객체지향1.md)
