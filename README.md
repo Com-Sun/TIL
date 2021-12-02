@@ -6,19 +6,19 @@
 
 # Git & Github
 
-- [Git & Github](https://github.com/Consome1/TIL/blob/main/Git/Git.md)
+- [Git & Github](https://github.com/Com-Sun/TIL/blob/main/Git/Git.md)
 - [우분투에서 Git 사용하기](/Git/Linux.md)
 - [이클립스에서 Git 사용하기](/Git/이클립스.md)
 
 # C
 
-- [fibonacci](https://github.com/Consome1/TIL/blob/main/C_practice/Ubuntu_programming/Fibonacci.md)
+- [fibonacci](https://github.com/Com-Sun/TIL/blob/main/C_practice/Ubuntu_programming/Fibonacci.md)
 
-- [switch문](https://github.com/Consome1/TIL/blob/main/C_practice/switch%EB%AC%B8.md)
+- [switch문](https://github.com/Com-Sun/TIL/blob/main/C_practice/switch%EB%AC%B8.md)
 
-- [형 변환(캐스팅)](https://github.com/Consome1/TIL/blob/main/C_practice/%ED%98%95%EB%B3%80%ED%99%98.md#c%EC%96%B8%EC%96%B4%EC%97%90%EC%84%9C%EC%9D%98-%ED%98%95-%EB%B3%80%ED%99%98)
+- [형 변환(캐스팅)](https://github.com/Com-Sun/TIL/blob/main/C_practice/%ED%98%95%EB%B3%80%ED%99%98.md#c%EC%96%B8%EC%96%B4%EC%97%90%EC%84%9C%EC%9D%98-%ED%98%95-%EB%B3%80%ED%99%98)
 
-  - [소수점 이하 추출 후 대입하기](https://github.com/Consome1/TIL/blob/main/C_practice/Ubuntu_programming/casting_1.md)
+  - [소수점 이하 추출 후 대입하기](https://github.com/Com-Sun/TIL/blob/main/C_practice/Ubuntu_programming/casting_1.md)
 
 - [array](./C_practice/array.md)
 
@@ -48,7 +48,12 @@
   - [변수와 메서드](./javaStudy/개념/변수와메서드.md)
   - [Overriding vs Overloading](./javaStudy/개념/OverrideOverload.md)
 
-# JAVA8
+
+## JCF
+
+## JAVA8
+
+
 
 
 # MySQL
@@ -61,9 +66,9 @@
 
 # Algorithm
 
-- [단계별 분류](https://github.com/Consome1/TIL/blob/main/Algorithm/level/README.md)
+- [단계별 분류](https://github.com/Com-Sun/TIL/blob/main/Algorithm/level/README.md)
 
-- [태그별 분류](https://github.com/Consome1/TIL/blob/main/Algorithm/tag/README.md)
+- [태그별 분류](https://github.com/Com-Sun/TIL/blob/main/Algorithm/tag/README.md)
 
 - 알고리즘 개념
   - [입출력](./Algorithm/입출력.md)
