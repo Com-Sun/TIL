@@ -36,35 +36,19 @@
 - [함수 알고리즘](./C_practice/함수알고리즘.md)
 # JAVA
 
-- [Hello Java!](./javaStudy/hello_world.md)
 - [자바 로드맵](./javaStudy/javaProgramming.md)
-- 구조적인 프로그래밍
-  - [코드구조화](./javaStudy/StructuredProgramming/01_코드구조화.md)
-  - [데이터구조화](./javaStudy/StructuredProgramming/02_데이터구조화.md)
-  - [구조체배열](./javaStudy/StructuredProgramming/03_구조체배열.md)
-  - [가변길이배열](./javaStudy/StructuredProgramming/04_가변길이배열.md)
-  - [함수오버로딩](./javaStudy/StructuredProgramming/05_함수오버로딩.md)
+- [Generic(추가예정)]()
+- [Varargs(추가예정)]()
+- [try-with-resources(추가예정)]()
+- [Exception](./javaStudy/개념/exception.md)
 
-- 객체지향 프로그래밍
-  - [캡슐화](./javaStudy/ObjectOrientedProgramming/01_캡슐화.md)
-  - [생성자](./javaStudy/ObjectOrientedProgramming/02_생성자.md)
-  - [getters & setters](./javaStudy/ObjectOrientedProgramming/03_Getters_Setters.md)
-  - [캡슐분리](./javaStudy/ObjectOrientedProgramming/04_캡슐분리.md)
-  - [코드재사용](./javaStudy/ObjectOrientedProgramming/05_코드재사용.md)
-  - [IS A 상속(복습필요)](./javaStudy/ObjectOrientedProgramming/06_IS_A상속.md)
-  - [참조형식(복습필요)](./javaStudy/ObjectOrientedProgramming/07_참조형식.md)
-  - [동적바인딩(복습필요)](./javaStudy/ObjectOrientedProgramming/08_동적바인딩.md)
-  - [추상화(복습필요)](./javaStudy/ObjectOrientedProgramming/09_추상화.md)
-  - [팩토리메소드(복습필요)](./javaStudy/ObjectOrientedProgramming/10_팩토리메소드.md)
-
-
-- 개념 다지기
+- 이외에 추가적인 개념 정리
 
   - [입출력](./javaStudy/개념/입출력.md)
   - [변수와 메서드](./javaStudy/개념/변수와메서드.md)
   - [Overriding vs Overloading](./javaStudy/개념/OverrideOverload.md)
 
-
+# JAVA8
 
 
 # MySQL
@@ -84,3 +68,30 @@
 - 알고리즘 개념
   - [입출력](./Algorithm/입출력.md)
   - [스택](./Algorithm/스택.md)
+
+
+## Java(처음 공부를 시작한 ver)
+- [Hello Java!](./javaStudy/hello_world.md)
+- [API](./javaStudy/미사용/api.md)
+- [객체지향1](./javaStudy/미사용/객체지향1.md)
+- [객체지향2](./javaStudy/미사용/객체지향2.md)
+- [operator](./javaStudy/미사용/Operator.md)
+
+- 구조적인 프로그래밍
+  - [코드구조화](./javaStudy/StructuredProgramming/01_코드구조화.md)
+  - [데이터구조화](./javaStudy/StructuredProgramming/02_데이터구조화.md)
+  - [구조체배열](./javaStudy/StructuredProgramming/03_구조체배열.md)
+  - [가변길이배열](./javaStudy/StructuredProgramming/04_가변길이배열.md)
+  - [함수오버로딩](./javaStudy/StructuredProgramming/05_함수오버로딩.md)
+
+- 객체지향 프로그래밍
+  - [캡슐화](./javaStudy/ObjectOrientedProgramming/01_캡슐화.md)
+  - [생성자](./javaStudy/ObjectOrientedProgramming/02_생성자.md)
+  - [getters & setters](./javaStudy/ObjectOrientedProgramming/03_Getters_Setters.md)
+  - [캡슐분리](./javaStudy/ObjectOrientedProgramming/04_캡슐분리.md)
+  - [코드재사용](./javaStudy/ObjectOrientedProgramming/05_코드재사용.md)
+  - [IS A 상속(복습필요)](./javaStudy/ObjectOrientedProgramming/06_IS_A상속.md)
+  - [참조형식(복습필요)](./javaStudy/ObjectOrientedProgramming/07_참조형식.md)
+  - [동적바인딩(복습필요)](./javaStudy/ObjectOrientedProgramming/08_동적바인딩.md)
+  - [추상화(복습필요)](./javaStudy/ObjectOrientedProgramming/09_추상화.md)
+  - [팩토리메소드(복습필요)](./javaStudy/ObjectOrientedProgramming/10_팩토리메소드.md)
