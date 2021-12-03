@@ -1,16 +1,60 @@
-# TIL
 
-## 우아한 테크코스 프리코스
-  
-* [숫자야구](./javaStudy/숫자야구.md)
+# Back-End
 
-# Git & Github
+## JAVA
+
+- [자바 로드맵](./javaStudy/javaProgramming.md)
+- [Generic(추가예정)]()
+- [Varargs(추가예정)]()
+- [try-with-resources(추가예정)]()
+- [Exception](./javaStudy/개념/exception.md)
+
+- 이외에 추가적인 개념 정리
+
+  - [입출력](./javaStudy/개념/입출력.md)
+  - [변수와 메서드](./javaStudy/개념/변수와메서드.md)
+  - [Overriding vs Overloading](./javaStudy/개념/OverrideOverload.md)
+
+
+### JCF
+
+### JAVA8
+
+## MySQL
+
+- [DBMS 개요](./mySQL/01_DBMS개요.md)
+- [MySQL 실습](./mySQL/02_MySQL실습.md)
+- [데이터베이스 모델링](./mySQL/03_모델링.md)
+- [JDBC 연동](./mySQL/05_JDBC연동.md)
+
+
+# Front-End
+
+## JavaScript
+
+- [JavaScript입문](https://github.com/Com-Sun/StudyJS)
+
+# Algorithm
+
+- [단계별 분류](https://github.com/Com-Sun/TIL/blob/main/Algorithm/level/README.md)
+
+- [태그별 분류](https://github.com/Com-Sun/TIL/blob/main/Algorithm/tag/README.md)
+
+- 알고리즘 개념
+  - [입출력](./Algorithm/입출력.md)
+  - [스택](./Algorithm/스택.md)
+
+
+
+# Git & Github (업데이트 예정)
 
 - [Git & Github](https://github.com/Com-Sun/TIL/blob/main/Git/Git.md)
 - [우분투에서 Git 사용하기](/Git/Linux.md)
 - [이클립스에서 Git 사용하기](/Git/이클립스.md)
 
-# C
+# 이전에 공부했던들
+
+## C
 
 - [fibonacci](https://github.com/Com-Sun/TIL/blob/main/C_practice/Ubuntu_programming/Fibonacci.md)
 
@@ -34,48 +78,9 @@
 - [함수2](./C_practice/함수2.md)
 
 - [함수 알고리즘](./C_practice/함수알고리즘.md)
-# JAVA
-
-- [자바 로드맵](./javaStudy/javaProgramming.md)
-- [Generic(추가예정)]()
-- [Varargs(추가예정)]()
-- [try-with-resources(추가예정)]()
-- [Exception](./javaStudy/개념/exception.md)
-
-- 이외에 추가적인 개념 정리
-
-  - [입출력](./javaStudy/개념/입출력.md)
-  - [변수와 메서드](./javaStudy/개념/변수와메서드.md)
-  - [Overriding vs Overloading](./javaStudy/개념/OverrideOverload.md)
 
 
-## JCF
-
-## JAVA8
-
-
-
-
-# MySQL
-
-- [DBMS 개요](./mySQL/01_DBMS개요.md)
-- [MySQL 실습](./mySQL/02_MySQL실습.md)
-- [데이터베이스 모델링](./mySQL/03_모델링.md)
-- [JDBC 연동](./mySQL/05_JDBC연동.md)
-
-
-# Algorithm
-
-- [단계별 분류](https://github.com/Com-Sun/TIL/blob/main/Algorithm/level/README.md)
-
-- [태그별 분류](https://github.com/Com-Sun/TIL/blob/main/Algorithm/tag/README.md)
-
-- 알고리즘 개념
-  - [입출력](./Algorithm/입출력.md)
-  - [스택](./Algorithm/스택.md)
-
-
-# Java(처음 공부를 시작한 ver)
+## Java(처음 공부를 시작한 ver)
 - [Hello Java!](./javaStudy/hello_world.md)
 - [API](./javaStudy/미사용/api.md)
 - [객체지향1](./javaStudy/미사용/객체지향1.md)
@@ -100,3 +105,6 @@
   - [동적바인딩(복습필요)](./javaStudy/ObjectOrientedProgramming/08_동적바인딩.md)
   - [추상화(복습필요)](./javaStudy/ObjectOrientedProgramming/09_추상화.md)
   - [팩토리메소드(복습필요)](./javaStudy/ObjectOrientedProgramming/10_팩토리메소드.md)
+
+
+
