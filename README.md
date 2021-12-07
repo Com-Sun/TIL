@@ -27,8 +27,6 @@
 - [데이터베이스 모델링](./mySQL/03_모델링.md)
 - [JDBC 연동](./mySQL/05_JDBC연동.md)
 
----
-<br>
 <br>
 
 # Front-End
@@ -37,8 +35,6 @@
 
 - [JavaScript입문](https://github.com/Com-Sun/StudyJS)
 
----
-<br>
 <br>
 
 # Algorithm
@@ -53,14 +49,12 @@
   - [큐](./Algorithm/큐.md)
 
 
-
 # Git & Github (업데이트 예정)
 
 - [Git & Github](https://github.com/Com-Sun/TIL/blob/main/Git/Git.md)
 - [우분투에서 Git 사용하기](/Git/Linux.md)
 - [이클립스에서 Git 사용하기](/Git/이클립스.md)
 
-<br>
 <br>
 
 # 이전에 공부했던 ver
