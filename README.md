@@ -14,7 +14,7 @@
   - [변수와 메서드](./Back-End/studyJava/개념/변수와메서드.md)
   - [Overriding vs Overloading](./Back-End/studyJava/개념/OverrideOverload.md)
 
-### [JCF](https://github.com/Com-Sun/study-jcf)
+### [JCF](https://github.com/Com-Sun/ThinkDataStructures)
 
 ### JAVA8
 
@@ -29,7 +29,7 @@
 
 # Front-End
 
-## [JavaScript](/Front-End/study-javascript/README.md)
+### [JavaScript](/Front-End/study-javascript/README.md)
 
 
 
