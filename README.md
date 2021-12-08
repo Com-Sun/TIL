@@ -1,4 +1,3 @@
-
 # Back-End
 
 ## JAVA
@@ -15,12 +14,11 @@
   - [변수와 메서드](./Back-End/studyJava/개념/변수와메서드.md)
   - [Overriding vs Overloading](./Back-End/studyJava/개념/OverrideOverload.md)
 
-
-### JCF
+### [JCF](https://github.com/Com-Sun/study-jcf)
 
 ### JAVA8
 
-## MySQL
+## MySQL (개편예정)
 
 - [DBMS 개요](./Back-End/mySQL/01_DBMS개요.md)
 - [MySQL 실습](./Back-End/mySQL/02_MySQL실습.md)
@@ -31,9 +29,9 @@
 
 # Front-End
 
-## JavaScript
+## [JavaScript](/Front-End/study-javascript/README.md)
 
-- [JavaScript입문](https://github.com/Com-Sun/StudyJS)
+
 
 <br>
 
@@ -41,15 +39,16 @@
 
 - [입출력](./problemSolving/입출력.md)
 
-
-## Data Structure 
+## Data Structure
 
 - [스택](./problemSolving/dataStructure/스택.md)
 - [큐](./problemSolving/dataStructure/큐.md)
 
 ## Algorithm
 
-# Git & Github (업데이트 예정)
+<br>
+
+# Git & Github (개편 예정)
 
 - [Git & Github](https://github.com/Com-Sun/TIL/blob/main/Git/Git.md)
 - [우분투에서 Git 사용하기](/Git/Linux.md)
@@ -78,14 +77,15 @@
 - [pointer_fin](./C_practice/pointer_fin.md)
 
 - [함수](./C_practice/함수.md)
+
   - [함수실습](./C_practice/함수실습.md)
 
 - [함수2](./C_practice/함수2.md)
 
 - [함수 알고리즘](./C_practice/함수알고리즘.md)
 
-
 ## Java(처음 공부를 시작한 ver)
+
 - [Hello Java!](./unUsed/javaStudy/hello_world.md)
 - [API](./unUsed/javaStudy/api.md)
 - [객체지향1](./unUsed/javaStudy/객체지향1.md)
@@ -93,6 +93,7 @@
 - [operator](./unUsed/javaStudy/Operator.md)
 
 - 구조적인 프로그래밍
+
   - [코드구조화](./unUsed/javaStudy/StructuredProgramming/01_코드구조화.md)
   - [데이터구조화](./unUsed/javaStudy/StructuredProgramming/02_데이터구조화.md)
   - [구조체배열](./unUsed/javaStudy/StructuredProgramming/03_구조체배열.md)
@@ -110,6 +111,3 @@
   - [동적바인딩(복습필요)](./unUsed/javaStudy/ObjectOrientedProgramming/08_동적바인딩.md)
   - [추상화(복습필요)](./unUsed/javaStudy/ObjectOrientedProgramming/09_추상화.md)
   - [팩토리메소드(복습필요)](./unUsed/javaStudy/ObjectOrientedProgramming/10_팩토리메소드.md)
-
-
-
