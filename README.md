@@ -37,17 +37,17 @@
 
 <br>
 
-# Algorithm
+# Problem Solving
 
-- [단계별 분류](https://github.com/Com-Sun/TIL/blob/main/Algorithm/level/README.md)
+- [입출력](./problemSolving/입출력.md)
 
-- [태그별 분류](https://github.com/Com-Sun/TIL/blob/main/Algorithm/tag/README.md)
 
-- 알고리즘 개념
-  - [입출력](./Algorithm/입출력.md)
-  - [스택](./Algorithm/스택.md)
-  - [큐](./Algorithm/큐.md)
+## Data Structure 
 
+- [스택](./problemSolving/dataStructure/스택.md)
+- [큐](./problemSolving/dataStructure/큐.md)
+
+## Algorithm
 
 # Git & Github (업데이트 예정)
 
