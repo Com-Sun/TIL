@@ -5,11 +5,7 @@
 - [자바 로드맵](./Back-End/studyJava/javaRoadmap.md)
 
 
-- 이외에 추가적인 개념 정리
-
-  - [입출력](./Back-End/studyJava/개념/입출력.md)
-  - [변수와 메서드](./Back-End/studyJava/개념/변수와메서드.md)
-  - [Overriding vs Overloading](./Back-End/studyJava/개념/OverrideOverload.md)
+- [`이외에 추가적인 개념 정리`](./Back-End/studyJava/개념)
 
 ### [JCF](https://github.com/Com-Sun/ThinkDataStructures)
 
