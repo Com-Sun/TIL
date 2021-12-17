@@ -5,7 +5,7 @@
 - [자바 로드맵](./Back-End/studyJava/javaRoadmap.md)
 
 
-- [`이외에 추가적인 개념 정리`](./Back-End/studyJava/개념)
+- [이외에 추가적인 개념 정리](./Back-End/studyJava/개념)
 
 ### [JCF](https://github.com/Com-Sun/ThinkDataStructures)
 
