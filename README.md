@@ -3,10 +3,7 @@
 ## JAVA
 
 - [자바 로드맵](./Back-End/studyJava/javaRoadmap.md)
-- [Generic(추가예정)](./Back-End/studyJava/generic.md)
-- [Varargs(추가예정)](./Back-End/studyJava/varargs.md)
-- [try-with-resources(추가예정)](./Back-End/studyJava/try-with-resources.md)
-- [Exception(추가예정)](./Back-End/studyJava/exception.md)
+
 
 - 이외에 추가적인 개념 정리
 
