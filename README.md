@@ -4,6 +4,7 @@
 
 - [자바 로드맵](./Back-End/studyJava/javaRoadmap.md)
 
+- [Build와 IDE](./Back-End/studyJava/build_IDE.md)
 
 - [이외에 추가적인 개념 정리](./Back-End/studyJava/개념)
 
@@ -40,14 +41,6 @@
 - [큐](./problemSolving/dataStructure/큐.md)
 
 ## Algorithm
-
-<br>
-
-# Git & Github (개편 예정)
-
-- [Git & Github](https://github.com/Com-Sun/TIL/blob/main/Git/Git.md)
-- [우분투에서 Git 사용하기](/Git/Linux.md)
-- [이클립스에서 Git 사용하기](/Git/이클립스.md)
 
 <br>
 
