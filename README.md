@@ -1,10 +1,11 @@
 # Back-End
+* [백엔드 미니프로젝트](https://github.com/Com-Sun/web-mini-project)
 
 ## JAVA
 
 - [자바 로드맵](./Back-End/studyJava/javaRoadmap.md)
 
-- [Build와 IDE](./Back-End/studyJava/build_IDE.md)
+- [Tools - Build & IDE](./Back-End/studyJava/build_IDE.md)
 
 - [이외에 추가적인 개념 정리](./Back-End/studyJava/개념)
 
