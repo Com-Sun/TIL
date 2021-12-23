@@ -1,6 +1,6 @@
 이 문서는 Java Web Back-end 개발에 필요한 선행지식을 다룰 예정이다. 학습할 개념은 크게 두 가지이다. 
 
-* Build tools - Gradle, Mavern, APACHE ANT
+* Build tools - Ant, Maven, Gradle
 * IDE - Eclipse, IntelliJ
 
 여기서 인지해야할 부분이 있다. 위의 개념은 이보다 더 큰 DevOps라는 개념의 부분집합이다. 우선, DevOps라는 개념이 무엇인지 알아보고 난 뒤에 Build tools와 IDE에 관해 다루자.
@@ -44,4 +44,10 @@
 * JAR: 자바에서 사용되는 압축 양식, 클래스 + 리소스파일로 구성
 * WAR: 웹 어플리케이션을 압축하고 배포하는데 사용되는 파일 형태. JAR에 비해 자바 서블릿, XML 파일, 정적 파일 등 필요한 자원이 더 많다.
 
-위 과정을 도와주는 것이 "빌드 도구"이다.
+위 과정을 도와주는 것이 "빌드 도구"이다. 이 문서가 쓰이는 시점을 기준으로 자주 쓰이는 빌드 도구는 크게 두 가지가 있다. Maven 과 Gradle이다. 하지만 그 이전에, Apache ANT라는 빌드 도구가 존재했다. Ant에서부터 Maven을 거쳐 Gradle에 이르기까지 각각의 빌드 Tool이 어떻게 사용되는지 알아보자.
+
+1. Ant
+
+2. Maven
+
+3. Gradle
