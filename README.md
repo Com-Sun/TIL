@@ -13,6 +13,9 @@
 
 ### JAVA8
 
+## Web Basic
+* [IntelliJ를 사용한 웹개발 기초](https://github.com/Com-Sun/study-intellij)
+
 ## MySQL (개편예정)
 
 - [DBMS 개요](./Back-End/mySQL/01_DBMS개요.md)
