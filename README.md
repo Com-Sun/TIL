@@ -98,8 +98,3 @@
   - [getters & setters](./unUsed/javaStudy/ObjectOrientedProgramming/03_Getters_Setters.md)
   - [캡슐분리](./unUsed/javaStudy/ObjectOrientedProgramming/04_캡슐분리.md)
   - [코드재사용](./unUsed/javaStudy/ObjectOrientedProgramming/05_코드재사용.md)
-  - [IS A 상속(복습필요)](./unUsed/javaStudy/ObjectOrientedProgramming/06_IS_A상속.md)
-  - [참조형식(복습필요)](./unUsed/javaStudy/ObjectOrientedProgramming/07_참조형식.md)
-  - [동적바인딩(복습필요)](./unUsed/javaStudy/ObjectOrientedProgramming/08_동적바인딩.md)
-  - [추상화(복습필요)](./unUsed/javaStudy/ObjectOrientedProgramming/09_추상화.md)
-  - [팩토리메소드(복습필요)](./unUsed/javaStudy/ObjectOrientedProgramming/10_팩토리메소드.md)
