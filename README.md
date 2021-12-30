@@ -13,9 +13,13 @@
 
 ### JAVA8
 
+<br>
+
 ## Web Basic
+
 * [IntelliJ를 사용한 웹개발 기초](https://github.com/Com-Sun/study-intellij)
-* [Eclipse를 사용한 실전 JSP](https://github.com/Com-Sun/study-jsp)
+
+### [Eclipse를 사용한 실전 JSP](https://github.com/Com-Sun/study-jsp)
 
 
 <br>
