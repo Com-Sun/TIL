@@ -20,7 +20,7 @@
 * [IntelliJ를 사용한 웹개발 기초](https://github.com/Com-Sun/study-intellij)
 
 ### [Eclipse를 사용한 실전 JSP](https://github.com/Com-Sun/study-jsp)
-### [Eclipse를 사용한 Spring](https://github.com/Com-Sun/study-spring)
+
 
 
 <br>
@@ -43,6 +43,7 @@
 
 - [스택](./problemSolving/dataStructure/스택.md)
 - [큐](./problemSolving/dataStructure/큐.md)
+- [덱](./problemSolving/dataStructure/덱.md)
 
 ## Algorithm
 
