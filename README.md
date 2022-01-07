@@ -1,7 +1,6 @@
 # Back-End
-* [백엔드 미니프로젝트 (아직없음)](https://github.com/Com-Sun/web-mini-project)
 
-## JAVA
+## [JAVA](https://github.com/Com-Sun/study-java)
 
 - [자바 로드맵](./Back-End/studyJava/javaRoadmap.md)
 
