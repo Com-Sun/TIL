@@ -34,19 +34,9 @@
 
 <br>
 
-# [`Problem Solving`](https://github.com/Com-Sun/problem-solving)
+# [Problem Solving](https://github.com/Com-Sun/problem-solving)
 
 - [입출력](./problemSolving/입출력.md)
-
-## Data Structure
-
-- [Stack](https://github.com/Com-Sun/problem-solving/tree/master/src/dataStructure/stack)
-- [Queue](https://github.com/Com-Sun/problem-solving/tree/master/src/dataStructure/queue)
-- [Deque](https://github.com/Com-Sun/problem-solving/tree/master/src/dataStructure/deque)
-
-## Algorithm
-
-<br>
 
 
 # Reading
