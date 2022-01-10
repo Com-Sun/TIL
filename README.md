@@ -34,15 +34,15 @@
 
 <br>
 
-# Problem Solving
+# [`Problem Solving`](https://github.com/Com-Sun/problem-solving)
 
 - [입출력](./problemSolving/입출력.md)
 
 ## Data Structure
 
-- [스택](./problemSolving/dataStructure/스택.md)
-- [큐](./problemSolving/dataStructure/큐.md)
-- [덱](./problemSolving/dataStructure/덱.md)
+- [Stack](https://github.com/Com-Sun/problem-solving/tree/master/src/dataStructure/stack)
+- [Queue](https://github.com/Com-Sun/problem-solving/tree/master/src/dataStructure/queue)
+- [Deque](https://github.com/Com-Sun/problem-solving/tree/master/src/dataStructure/deque)
 
 ## Algorithm
 
