@@ -26,8 +26,6 @@
 
 # Front-End
 
-* [HTML5, CSS3, JS를 사용한 간단한 미니프로젝트](https://github.com/Com-Sun/js-mini-project)
-
 ### [JavaScript](/Front-End/study-javascript/README.md)
 
 
