@@ -6,8 +6,6 @@
 
 - [Tools - Build & IDE](./Back-End/studyJava/build_IDE.md)
 
-- [이외에 추가적인 개념 정리](./Back-End/studyJava/개념)
-
 ### [JCF](https://github.com/Com-Sun/ThinkDataStructures)
 
 ### JAVA8
