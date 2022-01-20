@@ -36,5 +36,3 @@
 
 - [입출력](./problemSolving/입출력.md)
 
-
-# Reading
