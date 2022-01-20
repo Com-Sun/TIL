@@ -36,4 +36,6 @@
 
 - [입출력](./problemSolving/입출력.md)
 
-# [Linux](./linux)
+<br>
+
+### [Shell script](./linux)

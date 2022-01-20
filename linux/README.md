@@ -7,6 +7,7 @@
 
 - 파일 디스크립터: 파일 디스크립터(File Descriptor)란 리눅스 혹은 유닉스 계열의 시스템에서 프로세스(process)가 파일(file)을 다룰 때 사용하는 개념으로, 프로세스에서 특정 파일에 접근할 때 사용하는 추상적인 값이다.
 
+[개념 참고](https://www.baeldung.com/linux/silencing-bash-output)
 
 #### /dev/null
 
@@ -27,3 +28,31 @@ vim을 이용해 에너지파를 막는 쉘 스크립트를 만들어보자.
 ![](./img/4.PNG)
 
 silence를 사용한 뒤 에너지파를 쓴 결과, 에너지파가 나오지 않았다.
+
+#### 명령어
+
+- &&: 성공한다면 다음 명령어 실행
+
+#### 폴더 바꾸기
+
+쉘 스크립트를 이용하여 폴더를 바꿔보자. 
+**cdscript.sh**
+
+    #!/bin/sh
+    cd "$1"
+
+이제 디렉토리를 만들자. 
+
+    $ mkdir testDir
+
+위에서 만든 스크립트를 실행해보자.
+
+![](./img/5.PNG)
+
+cd명령어가 실행되지 않는다. 이유가 무엇일까?
+
+스크립트는 subshell에서 동작한다. 즉, parent shell이 실행되는 directory를 바꾸지 못한다.
+
+해결방법: source command 사용 or '.' 사용
+
+![](./img/6.PNG)
