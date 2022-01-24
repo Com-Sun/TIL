@@ -25,6 +25,7 @@
 # Front-End
 
 ### [JavaScript](/Front-End/study-javascript/README.md)
+### [jQuery](https://github.com/Com-Sun/study-jQuery)
 
 
 
