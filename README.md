@@ -18,8 +18,6 @@
 
 ### [Eclipse를 사용한 실전 JSP](https://github.com/Com-Sun/study-jsp)
 
-
-
 <br>
 
 # Front-End
@@ -38,3 +36,17 @@
 <br>
 
 ### [Shell script](./linux)
+
+<br>
+
+## Mini Project
+
+### [Python Mini Project]()
+- Python
+- mongoDB
+- Flask
+- AWS
+- HTML5, CSS3
+- Javascript
+    - jQuery
+    - ajax
