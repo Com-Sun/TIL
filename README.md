@@ -41,20 +41,4 @@
 
 ## Mini Project
 
-
-
-### [Python Mini Project]()
-- Python
-- mongoDB
-- Flask
-- AWS
-- HTML5, CSS3
-- Javascript
-    - jQuery
-    - ajax
-
-완성본
-
-![](./img/3.PNG)
-
-배운것을 저장소에 새로 정리해서 올릴 예정
+### [Python Mini Project](https://github.com/Com-Sun/python-mini-project)
