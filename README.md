@@ -31,7 +31,7 @@
 
 # [Problem Solving](https://github.com/Com-Sun/problem-solving)
 
-- [입출력](./problemSolving/입출력.md)
+
 
 <br>
 
