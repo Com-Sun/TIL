@@ -18,6 +18,7 @@
 
 ### [Spring-core](https://github.com/Com-Sun/spring-exam)
 ### [Spring-MVC](https://github.com/Com-Sun/mybatis_board)
+### [Spring-Data-Jpa + Security](https://github.com/Com-Sun/board-jpa)
 
 ## Network
 
