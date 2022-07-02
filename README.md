@@ -19,7 +19,7 @@
 ### [Spring-core](https://github.com/Com-Sun/spring-exam)
 ### [Spring-MVC](https://github.com/Com-Sun/mybatis_board)
 ### [Spring Data Jpa + Security](https://github.com/Com-Sun/board-jpa)
-### Spring Boot + Rest API + MSA
+### Spring Boot + Rest API
 - [Gateway](https://github.com/Com-Sun/rest-gateway)
 - [Rest API - account](https://github.com/Com-Sun/rest-account)
 - [Rest API - task](https://github.com/Com-Sun/rest-task)
@@ -39,12 +39,3 @@
 <br>
 
 # [Problem Solving](https://github.com/Com-Sun/problem-solving)
-
-
-<br>
-
-## Mini Project
-
-### [Python Mini Project](https://github.com/Com-Sun/python-mini-project)
-
-## [Today I Learned](./til)
